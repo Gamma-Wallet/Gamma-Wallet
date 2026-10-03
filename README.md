@@ -10,12 +10,6 @@ Its heart is **Community Loyalty**: the more customers take part, the more every
 - **Customers** keep every reward, credit and membership in one app, and show one QR code in every shop.
 - **Businesses** run their loyalty from Gamma Business, the web portal and the Retailer app — register and start on the free tier.
 
-## Open source
 
-| Repository | What it does |
-|---|---|
-| [gamma-business-mcp](https://github.com/Gamma-Wallet/gamma-business-mcp) | Lets Claude run a Gamma business for its owner — profile, menu, levels, offers, broadcasts, staff and statistics — with a personal access token instead of a password. |
-
-## Links
 
 🌐 [www.gamma-wallet.com](https://www.gamma-wallet.com) · 📖 [Help](https://blog.gamma-wallet.com/en/crm/ai-assistant) · 💼 [LinkedIn](https://www.linkedin.com/company/gamma-wallet/) · ▶️ [YouTube](https://www.youtube.com/@GammaWallet) · 📸 [Instagram](https://www.instagram.com/gammawallet/) · 𝕏 [X](https://x.com/GammaWallet)
