@@ -10,6 +10,34 @@ Its heart is **Community Loyalty**: the more customers take part, the more every
 - **Customers** keep every reward, credit and membership in one app, and show one QR code in every shop.
 - **Businesses** run their loyalty from Gamma Business, the web portal and the Retailer app — register and start on the free tier.
 
+### Integrations and plugins
+
+Connect the shop you already have: customers earn a reward for every paid order and can use their store credits at checkout.
+
+| Platform | What it is | Repository | Status |
+|---|---|---|---|
+| Your own software | Integration API docs, workflow diagrams and samples in C#, PHP, Node.js and Java | [Integrations-samples-](https://github.com/Gamma-Wallet/Integrations-samples-) | ✅ Available |
+| WooCommerce | WordPress plugin, with a step-by-step guide for shop owners | [WooCommerce-Plugin](https://github.com/Gamma-Wallet/WooCommerce-Plugin) | ✅ Available |
+| Shopify | Shopify app | — | 🛠️ Planned |
+| Wix | Wix app | — | 🛠️ Planned |
+| PrestaShop | PrestaShop module | — | 🛠️ Planned |
+| Odoo | Odoo module | — | 🛠️ Planned |
+| OpenCart | OpenCart extension | — | 💬 On request |
+| Magento / Adobe Commerce | Magento extension | — | 💬 On request |
+| Ecwid | Ecwid app | — | 💬 On request |
+| Shopware | Shopware plugin | — | 💬 On request |
+| BigCommerce | BigCommerce app | — | 💬 On request |
+| nopCommerce | nopCommerce plugin | — | 💬 On request |
+| Shoptet | Shoptet add-on | — | 💬 On request |
+| VirtueMart | VirtueMart plugin | — | 💬 On request |
+| CS-Cart | CS-Cart add-on | — | 💬 On request |
+| Drupal Commerce | Drupal module | — | 💬 On request |
+| Tiendanube / Nuvemshop | Tiendanube app | — | 💬 On request |
+| SHOPLINE | SHOPLINE app | — | 💬 On request |
+| Bitrix | Bitrix module | — | 💬 On request |
+
+Using a platform marked *On request*? Tell us through [gamma-wallet.com](https://www.gamma-wallet.com). Until then, any shop can connect through the [Integration API](https://github.com/Gamma-Wallet/Integrations-samples-).
+
 
 
 🌐 [www.gamma-wallet.com](https://www.gamma-wallet.com) · 📖 [Help](https://blog.gamma-wallet.com/en/crm/ai-assistant) · 💼 [LinkedIn](https://www.linkedin.com/company/gamma-wallet/) · ▶️ [YouTube](https://www.youtube.com/@GammaWallet) · 📸 [Instagram](https://www.instagram.com/gammawallet/) · 𝕏 [X](https://x.com/GammaWallet)
