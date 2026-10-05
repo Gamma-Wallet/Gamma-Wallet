@@ -19,9 +19,9 @@ Connect the shop you already have: customers earn a reward for every paid order 
 | Your own software | Integration API docs, workflow diagrams and samples in C#, PHP, Node.js and Java | [Integrations-samples-](https://github.com/Gamma-Wallet/Integrations-samples-) | ✅ Available |
 | WooCommerce | WordPress plugin, with a step-by-step guide for shop owners | [WooCommerce-Plugin](https://github.com/Gamma-Wallet/WooCommerce-Plugin) | ✅ Available |
 | PrestaShop | PrestaShop module, with a step-by-step guide for shop owners | [PrestaShop-Module](https://github.com/Gamma-Wallet/PrestaShop-Module) | ✅ Available |
+| Odoo | Odoo 18 module (self-hosted and Odoo.sh), with a step-by-step guide for shop owners | [Odoo-Module](https://github.com/Gamma-Wallet/Odoo-Module) | ✅ Available |
 | Shopify | Shopify app | — | 🛠️ Planned |
 | Wix | Wix app | — | 🛠️ Planned |
-| Odoo | Odoo module | — | 🛠️ Planned |
 | OpenCart | OpenCart extension | — | 💬 On request |
 | Magento / Adobe Commerce | Magento extension | — | 💬 On request |
 | Ecwid | Ecwid app | — | 💬 On request |
