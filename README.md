@@ -20,9 +20,9 @@ Connect the shop you already have: customers earn a reward for every paid order 
 | WooCommerce | WordPress plugin, with a step-by-step guide for shop owners | [WooCommerce-Plugin](https://github.com/Gamma-Wallet/WooCommerce-Plugin) | ✅ Available |
 | PrestaShop | PrestaShop module, with a step-by-step guide for shop owners | [PrestaShop-Module](https://github.com/Gamma-Wallet/PrestaShop-Module) | ✅ Available |
 | Odoo | Odoo 18 module (self-hosted and Odoo.sh), with a step-by-step guide for shop owners | [Odoo-Module](https://github.com/Gamma-Wallet/Odoo-Module) | ✅ Available |
+| OpenCart | OpenCart 4 extension, with a step-by-step guide for shop owners | [OpenCart-Extension](https://github.com/Gamma-Wallet/OpenCart-Extension) | ✅ Available |
 | Shopify | Shopify app | — | 🛠️ Planned |
 | Wix | Wix app | — | 🛠️ Planned |
-| OpenCart | OpenCart extension | — | 💬 On request |
 | Magento / Adobe Commerce | Magento extension | — | 💬 On request |
 | Ecwid | Ecwid app | — | 💬 On request |
 | Shopware | Shopware plugin | — | 💬 On request |
